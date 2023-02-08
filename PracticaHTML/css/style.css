@@ -1,0 +1,60 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.titulo1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#lb1{
+    color: blue;
+}
+#lb2{
+    color: blue;
+}
+#lb3{
+    color: blue;
+}
+#lb4{
+    color: blue;
+}
+#lb5{
+    color: blue;
+}
+#lb6{
+    color: blue;
+}
+
+.contacto{
+    width: 10%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#contact{
+    color: blueviolet;
+}
+
+#lb7{
+    color: blue;
+}
+
+#lb8{
+    color: blue;
+}
+
+#lb9{
+    color: blue;
+}
