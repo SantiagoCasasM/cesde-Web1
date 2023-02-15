@@ -1,0 +1,12 @@
+body{
+ background-color: antiquewhite;   
+}
+h1, h2{
+    text-align: center;
+}
+footer{
+    background-color: aquamarine;
+}
+section{
+    height: 400px;
+}
